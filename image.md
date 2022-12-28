@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ein Beispiel mit Bild
 ---
 
