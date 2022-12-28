@@ -1,2 +1,2 @@
-# github-pages-example
-Ein einfaches Beispiel zur Illustration von GitHub Pages.
+# KNAUF.name Landing Page
+Explaining that this domain does not host any content.
